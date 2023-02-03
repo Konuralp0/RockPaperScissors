@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+
+#buttons{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 200px;
+    
+  
+}
+
+#scoreboard-el{
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    
+}
+
+#player-el{
+    
+}
+#computer-el{
+   
+}
+
+#scoreboard-title{
+    
+}
+#lines{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 25px;
+}
